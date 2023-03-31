@@ -1,4 +1,4 @@
-# MERN_Booking
+# Booking-clone
 訂房網站&amp;後台管理
 
 Add New Resorts - Admin management
